@@ -1,0 +1,2 @@
+# kikad-trials
+learning kikad
